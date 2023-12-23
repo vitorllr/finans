@@ -1,0 +1,95 @@
+#home {
+    background: #ffc107;
+    color: white;
+}
+
+#dashboard,
+#contas {
+
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.cor-texto {
+    color: #4F4F4F;
+}
+
+.caixa {
+
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+.w-95 {
+    width: 95%;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.w-65 {
+    width: 65%;
+}
+
+.w-57 {
+    width: 57%;
+}
+
+.w-18 {
+    width: 18%;
+}
+
+.w-17 {
+    width: 17%;
+}
+
+.w-16 {
+    width: 16.6%;
+}
+
+.w-33 {
+    width: 30%;
+}
+
+.w-40 {
+    width: 40%;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#login {
+    background-color: #ffc107;
+
+}
+
+.amarelobg {
+    background-color: #ffc107;
+}
+
+.amarelinho {
+    background-color: #D7BE72;
+}
+
+.verdinho {
+    background-color: #89D9A5;
+}
+
+.vermelinho {
+    background-color: #F28080;
+}
+
+.azulzinho {
+    background-color: #0882FF
+}
+
+.text-menu {
+    color: #3D8599;
+}
